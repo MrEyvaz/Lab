@@ -1,0 +1,93 @@
+/* table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+} */
+
+/* tr :nth-child(even) {
+background-color: aquamarine;
+} */
+
+/* .cov tr:nth-child(odd) {
+background-color: rgb(179, 142, 43);
+} */
+
+/* tr {
+    border-bottom: 7px solid black;
+}
+
+tr:hover {
+    background-color: bisque; */
+/* } */
+
+header div{
+    background-color: gray;
+    height: 30px;
+    padding: 58px;
+}
+
+.web {
+    color: white;
+    padding-left: 528px;
+    margin: -11px;
+    font-size: 43px;
+}
+
+.main {
+    background-color: rgba(161, 41, 41, 0.979);
+    color: white;
+display: flex;
+padding: 25px;
+padding-left: 549px;
+}
+
+p {
+    margin: 10px;
+}
+
+.content {
+    margin: 134px;
+    padding-left: 63px;
+}
+.a {
+    padding-left: 745px;
+    margin-top: -211px;
+}
+
+.text input{
+    border-radius: 10px;
+    margin: 13px;
+    margin-left: 579px;
+    width: 182px;
+    height: 21px;
+}
+
+.open {
+    background-color: rgba(161, 41, 41, 0.979);
+    height: 65px;
+}
+
+.open p{
+    margin-left: 562px;
+    margin-top: 78px;
+    padding-top: 19px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
