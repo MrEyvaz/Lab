@@ -9,6 +9,7 @@ header div{
     padding-left: 528px;
     margin: -11px;
     font-size: 43px;
+    background-color: black;
 }
 
 .main {
@@ -17,19 +18,23 @@ header div{
 display: flex;
 padding: 25px;
 padding-left: 549px;
+justify-content: 
 }
 
 p {
     margin: 10px;
 }
-
+.moment{
+    display: flex; 
+     align-items: center; 
+    justify-content: center; 
+}
 .content {
     margin: 134px;
     padding-left: 63px;
 }
 .a {
-    padding-left: 745px;
-    margin-top: -211px;
+    background-color: antiquewhite;
 }
 
 .text input{
@@ -50,6 +55,7 @@ p {
     margin-top: 78px;
     padding-top: 19px;
 }
+
 
 
 
