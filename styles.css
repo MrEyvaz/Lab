@@ -1,24 +1,3 @@
-/* table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-} */
-
-/* tr :nth-child(even) {
-background-color: aquamarine;
-} */
-
-/* .cov tr:nth-child(odd) {
-background-color: rgb(179, 142, 43);
-} */
-
-/* tr {
-    border-bottom: 7px solid black;
-}
-
-tr:hover {
-    background-color: bisque; */
-/* } */
-
 header div{
     background-color: gray;
     height: 30px;
