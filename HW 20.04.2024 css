@@ -1,0 +1,78 @@
+.cov {
+    font-size: 170%;
+    margin-left: 236px;
+}
+
+.text {
+    padding: 44px;
+    margin: 201px;
+    margin-block-start: auto;
+    margin-top: -56px;
+    font-size: 110%;
+}
+
+.name{
+    border: 1px solid;
+    margin-right: 920px;
+    margin-top: -189px;
+    height: 300px;
+    background-color: antiquewhite;
+}
+
+.name img {
+    padding-left: 165px;
+    padding-top: 80px; 
+}
+
+.name h2{
+     padding-left: 85px; 
+}
+
+.name p{
+    padding-left: 10px;
+    font-size: 120;
+    padding-top: 10px;
+}
+
+.convent {
+    border: 1px solid black;
+    background-color: antiquewhite;
+    margin: 450px;
+    margin-top: -301px;
+    height: 300px;
+}
+
+.convent img{
+    padding-left: 170px;
+    padding-top: 80px;
+}
+
+.convent h2{
+    padding-left: 80px;
+}
+
+.convent p{
+    padding-left: 45px;
+    padding-top: 15px;
+}
+
+.bru {
+    border: 1px solid black;
+    margin-left: 900px;
+    margin-top: -752px;
+    height: 303px;
+    background-color: antiquewhite;
+}
+
+.bru img{
+    padding-left: 170px;
+    padding-top: 80px;
+}
+
+.bru h2{
+    padding-left: 90px;
+}
+
+.bru p{
+    padding-left: 30px;
+}
