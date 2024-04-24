@@ -1,0 +1,117 @@
+.container {
+ border: 1px solid black;
+ border-radius: 16px;
+ height: 80px;
+ margin-top: -65px;
+}
+
+.navdiv ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    align-items: center;
+    height: 46px;
+}
+
+li {
+    margin-left: 30px;
+    margin-right: 11px;
+}
+
+h1 {
+    padding-left: 38px;
+    padding-top: 15px;
+    margin: 14px;
+}
+
+.quote img{
+    height: 500px;
+    margin: 36px;
+    margin-left: 200px;
+    margin-top: 40px;
+    border-radius: 13px;
+}
+
+footer {
+    border: 1px solid black;
+}
+
+footer {
+    display: flex;
+    border-radius: 10px;
+    height: 142px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.word {
+    margin: 91px;
+    margin-left: -93px;
+    margin-top: 58px;
+}
+
+.icon {
+    margin: 109px;
+    margin-left: -329px;
+    font-size: 23px;
+}
+
+.label {
+    margin: 88px;
+    margin-left: 315px;
+}
+
+.label p {
+    margin: -19px;
+    margin-left: 145px;
+    border-radius: 10px;
+    border: 1px solid;
+    height: 31px;
+    margin-top: -29px;
+    width: 83px;
+    text-align: center;
+    background-color: rgb(84,100,113);
+    color: white;
+}
+
+.label input {
+    margin-left: -40px;
+    border-radius: 10px;
+    height: 23px;
+}
+
+.cov {
+    display: flex;
+}
+
+.number {
+    margin-top: -39px;
+}
+
+.cov input {
+    height: 29px;
+    border-radius: 10px;
+}
+
+.cov p {
+    border-radius: 10px;
+    border: 1px solid;
+    margin-top: 2px;
+    height: 28px;
+    width: 79px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.number p {
+    margin-left: 47px;
+}
+
+.icons {
+    margin-left: 7px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+}
