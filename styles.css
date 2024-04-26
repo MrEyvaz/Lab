@@ -1,4 +1,4 @@
-header div{
+header div {
     background-color: gray;
     height: 30px;
     padding: 58px;
@@ -15,29 +15,31 @@ header div{
 .main {
     background-color: rgba(161, 41, 41, 0.979);
     color: white;
-display: flex;
-padding: 25px;
-padding-left: 549px;
-justify-content: 
+    display: flex;
+    padding: 25px;
+    padding-left: 549px;
 }
 
 p {
     margin: 10px;
 }
-.moment{
-    display: flex; 
-     align-items: center; 
-    justify-content: center; 
+
+.moment {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
 .content {
     margin: 134px;
     padding-left: 63px;
 }
+
 .a {
     background-color: antiquewhite;
 }
 
-.text input{
+.text input {
     border-radius: 10px;
     margin: 13px;
     margin-left: 579px;
@@ -50,29 +52,8 @@ p {
     height: 65px;
 }
 
-.open p{
+.open p {
     margin-left: 562px;
     margin-top: 78px;
     padding-top: 19px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
